@@ -1,0 +1,8 @@
+# 재현 환경 (테스트: Python 3.14.4)
+# pickle 은 scikit-learn 버전에 민감하므로, 노트북으로 pkl 을 만든 환경과
+# predict.py 를 실행하는 환경의 scikit-learn 버전을 동일하게 맞추세요.
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+matplotlib>=3.8     # 노트북 그래프용 (predict.py 에는 불필요)
