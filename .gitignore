@@ -1,0 +1,11 @@
+# 작업용 구버전 파일 (GitHub 미공개, 로컬 보관)
+fifa_rank.csv
+round_of_32_to_final_bracket.png
+wc_score_prediction.ipynb
+wc_score_prediction_add_Elo.ipynb
+wc_score_prediction_v4_feature_search.ipynb
+
+# OS / 캐시
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
